@@ -94,6 +94,9 @@
     opacity: 1;
     transform: scale(1);
   }
+  .arrow-nav {
+    grid-column: 1 / -1;
+  }
 
   .arrow-nav {
     display: flex;
